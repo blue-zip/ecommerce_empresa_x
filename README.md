@@ -49,3 +49,5 @@ tirada da wikipedia:https://commons.wikimedia.org/wiki/File:PHP-logo.svg
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
 Contribuidor principal: https://www.github.com/matheusbattisti
+
+[![logo do php](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/matheusbattisti)
