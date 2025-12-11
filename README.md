@@ -31,3 +31,7 @@ __Melhoria 1__, _melhoria 2_
         1. adaptar para usuarios que estão em mais de um grupo ao mesmo tempo
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra 
+
+#### Imagem local
+
+![Logo do python](img/Python-logo-notext.svg.png)
