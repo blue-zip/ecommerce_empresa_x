@@ -46,4 +46,4 @@ tirada da wikipedia:https://commons.wikimedia.org/wiki/File:PHP-logo.svg
 
 [google](https://www.google.com)
 
-[https:www.horadecodar.com.br](https:www.horadecodar.com.br)
+[https://www.horadecodar.com.br](https://www.horadecodar.com.br)
