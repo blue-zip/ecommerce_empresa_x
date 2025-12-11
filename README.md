@@ -38,4 +38,4 @@ __Melhoria 1__, _melhoria 2_
 
 #### Imagem externa
 
-!https://commons.wikimedia.org/wiki/File:PHP-logo.svg
+![Logo do php](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)
