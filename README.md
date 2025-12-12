@@ -54,5 +54,8 @@ Contribuidor principal: https://www.github.com/matheusbattisti
 
 ## Codigo da funçáo da soma
 
-'''javascript
-function(soma)
+```javascript
+function soma(a, b) {
+    return a + b;
+}
+```
