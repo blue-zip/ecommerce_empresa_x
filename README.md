@@ -51,3 +51,8 @@ tirada da wikipedia:https://commons.wikimedia.org/wiki/File:PHP-logo.svg
 Contribuidor principal: https://www.github.com/matheusbattisti
 
 [![logo do php](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)](https://www.github.com/matheusbattisti)
+
+## Codigo da funçáo da soma
+
+'''javascript
+function(soma)
